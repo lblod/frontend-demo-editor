@@ -33,7 +33,7 @@
     "@lblod/ember-mock-login": "^0.4.5",
     "@lblod/ember-rdfa-editor": "^0.42.0-rc1.7",
     "@lblod/ember-rdfa-editor-besluit-type-plugin": "0.1.10",
-    "@lblod/ember-rdfa-editor-citaten-plugin": "0.12.0",
+    "@lblod/ember-rdfa-editor-citaten-plugin": "0.12.1",
     "@lblod/ember-rdfa-editor-date-manipulation-plugin": "0.3.2",
     "@lblod/ember-rdfa-editor-date-overwrite-plugin": "0.3.3",
     "@lblod/ember-rdfa-editor-date-plugin": "0.9.0",
