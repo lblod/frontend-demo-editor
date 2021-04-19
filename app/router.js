@@ -50,14 +50,4 @@ Router.map(function() {
       this.route('notulen');
     });
   });
-
-
-  /* design mocks */
-  this.route('imported-documents', function() {
-    this.route('new');
-    this.route('show');
-    this.route('edit');
-    this.route('templates');
-    this.route('publish');
-  });
 });
